@@ -1,0 +1,39 @@
+## .NET ##
+bin/
+obj/
+out/
+
+## Visual Studio ##
+.vs/
+*.user
+*.suo
+
+## Rider / JetBrains ##
+.idea/
+*.sln.iml
+
+## VS Code ##
+.vscode/
+
+## Build natijalari ##
+*.dll
+*.exe
+*.pdb
+
+## Maxfiy konfiguratsiya fayllari ##
+appsettings.Development.json
+appsettings.Production.json
+*.env
+secrets.json
+
+## Log fayllar ##
+*.log
+logs/
+
+## NuGet ##
+*.nupkg
+packages/
+
+## OS fayllari ##
+.DS_Store
+Thumbs.db

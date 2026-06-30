@@ -1,0 +1,6 @@
+@AsosiyProject.Api_HostAddress = http://localhost:5101
+
+GET {{AsosiyProject.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
